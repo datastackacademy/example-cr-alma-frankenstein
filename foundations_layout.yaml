@@ -1,0 +1,76 @@
+---
+part_time: false
+internship: false
+number_of_days: 25
+class_times:
+  Monday: 8:00-17:00
+  Tuesday: 8:00-17:00
+  Wednesday: 8:00-17:00
+  Thursday: 8:00-17:00
+  Friday: 8:00-17:00
+code_reviews:
+  settings:
+    visible_day_of_week: friday
+    visible_time: "8:00"
+    due_days_later: 0
+    due_time: "17:00"
+    submissions_not_required: false
+    always_visible: false
+  details:
+    - title: Python Fundamentals
+      visible_class_week: 1
+      filename: https://github.com/epicodus-classroom/data-engineering/blob/main/1_foundations_CRs/1_python_intro.md
+      objectives:
+      - "Include informative README, a `.gitignore` file and at least 8 commits."
+      - "The project should be well-commented, without unused code."
+      - "`list_sayer()` is completed, and runs according to the specs."
+      - "`dict_sayer()` is completed, and runs according to the specs."
+      - "`greatest()` is completed, and runs according to the specs."
+      - "`zipper()` is completed, and runs according to the specs."
+    - title: Python Intermediate
+      visible_class_week: 2
+      filename: https://github.com/epicodus-classroom/data-engineering/blob/main/1_foundations_CRs/2_python_intermediate.md
+      objectives:
+      - "Include informative README, a `.gitignore` file, and at least 8 commits."
+      - "The project should be well-commented, without unused code."
+      - "The function `fourth_place()` is completed, and runs according to the specs."
+      - "The lambda function is completed, the variable `subtracter_lambda` is assigned to it, and it runs according to the specs."
+      - "The `Shoe` class is completed, and runs according to the specs."
+      - "The function `galaxy()` is completed, and runs according to the specs."
+      - "All functions include type hints and docstrings."
+      - "There's a Pytest for each of the functions."
+    - title: Python Advanced
+      visible_class_week: 3
+      filename: https://github.com/epicodus-classroom/data-engineering/blob/main/1_foundations_CRs/3_python_advanced.md
+      objectives:
+      - "Include informative README, a `.gitignore` file, a `requirements.txt` file and at least 8 commits."
+      - "Be well-commented, without unused code."
+      - "Generate a list using Faker."
+      - "Remove duplicates from the Faker list."
+      - "Use a dictionary comprehension as outlined above."
+      - "Write the dictionary to a JSON file."
+      - "Read the dictionary back out, and print strings of the keys that have 4 or more characters."
+    - title: Pandas
+      visible_class_week: 4
+      filename: https://github.com/epicodus-classroom/data-engineering/blob/main/1_foundations_CRs/4_pandas.md
+      objectives:
+      - "Include informative README, a `.gitignore` file, a `requirements.txt` file and at least 8 commits."
+      - "Be well-commented, without unused code."
+      - "Profile the data, as outlined above."
+      - "Use `loc`, as outlined above."
+      - "Clean and normalize each dataset."
+      - "Use and explain a join."
+      - "Calculate the statistics outlined above.- Include informative README, a `.gitignore` file, a `requirements.txt` file and at least 8 commits."
+      - "Be well-commented, without unused code."
+      - "Profile the data, as outlined above."
+      - "Use `loc`, as outlined above."
+      - "Clean and normalize each dataset."
+      - "Use and explain a join."
+      - "Calculate the statistics outlined above."
+    - title: Team Week
+      visible_class_week: 5
+      filename: https://github.com/epicodus-classroom/data-engineering/blob/main/1_foundations_CRs/team_week.md
+      objectives:
+      - "Your participation on your team"
+      - "Having at least 16 commits on your team's project repository"
+      - "Participating in the presentation"

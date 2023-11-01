@@ -1,0 +1,63 @@
+---
+part_time: false
+internship: false
+number_of_days: 25
+class_times:
+  Monday: 8:00-17:00
+  Tuesday: 8:00-17:00
+  Wednesday: 8:00-17:00
+  Thursday: 8:00-17:00
+  Friday: 8:00-17:00
+code_reviews:
+  settings:
+    visible_day_of_week: friday
+    visible_time: "8:00"
+    due_days_later: 0
+    due_time: "17:00"
+    submissions_not_required: false
+    always_visible: false
+  details:
+    - title: Airflow pt 1
+      visible_class_week: 1
+      filename: https://github.com/epicodus-classroom/data-engineering/blob/main/3_airflow_and_spark_CRs/1_airflow_pt_1.md
+      objectives:
+      - "Include a README with instructions for the `docker-compose` commands that your user should use to run the DAG in the Airflow GUI, a diagram of your DAG (a screenshot from the Airflow GUI or an illustration with draw.io is okay), and an explanation of the project."
+      - "Have well-commented code, at least 8 commits, and no unused code"
+      - "Run successfully on the Airflow GUI"
+      - "Have a DAG with the tasks outlined above, and the tasks should run in the order specified."
+      - "Include the following files: 'requirements.txt', '.gitignore', and a 'dags' directory."
+    - title: Airflow pt. 2
+      visible_class_week: 2
+      filename: https://github.com/epicodus-classroom/data-engineering/blob/main/3_airflow_and_spark_CRs/2_airflow_pt_2.md
+      objectives:
+      - "The project includes an informative README, a `.gitignore` file, a `requirements.txt` file and at least 8 commits."
+      - "The README has instructions for how your user can set up and run the project, including cloning the project from GitHub, the `docker-compose` commands needed to start Airflow, instructions on how to create a file connection for the `data/` folder, and the command for copying `votes.csv` to their local system"
+      - "The README includes a diagram of your DAG (a screenshot from the Airflow GUI or an illustration with draw.io is okay)."
+      - "The DAG uses XComs, decorators, and a sensor, and follows the instructions above."
+      - "The project can run successfully on the Airflow GUI."
+      - "The project is well-commented, without unused code."
+    - title: Spart pt. 1
+      visible_class_week: 3
+      filename: https://github.com/epicodus-classroom/data-engineering/blob/main/3_airflow_and_spark_CRs/3_spark_pt_1.md
+      objectives:
+      - "Include a completed README, a `requirements.txt` file, a `.gitignore` file, at least 8 commits, and well-commented code with no unused code."
+      - "Complete all the criteria in the 'Profile the Data' section above."
+      - "Complete all the criteria in the 'Clean the Data' section above."
+      - "Complete all the criteria in the 'Extract Information' section above."
+      - "Save the DataFrame as a Parquet file in a `/data` directory."
+    - title: Spark pt. 2
+      visible_class_week: 4
+      filename: https://github.com/epicodus-classroom/data-engineering/blob/main/3_airflow_and_spark_CRs/4_spark_pt_2.md
+      objectives:
+      - "Include a completed README, a requirements.txt file, a .gitignore file, at least 8 commits, and well-commented code with no unused code."
+      - "Create a DataFrame that includes the five columns of aggregate data created above."
+      - "Include code to find the statistical values listed above."
+      - "Include code to write the final DataFrame to a Parquet file."
+    - title: Team Week
+      visible_class_week: 5
+      filename: https://github.com/epicodus-classroom/data-engineering/blob/main/3_airflow_and_spark_CRs/5_team_week.md
+      objectives:
+      - "Your participation on your team"
+      - "Having at least 16 commits on your team's project repository"
+      - "Participating in the presentation"
+
