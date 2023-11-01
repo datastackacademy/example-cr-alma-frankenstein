@@ -1,0 +1,280 @@
+[2022-06-16 00:00:20,040] {processor.py:153} INFO - Started process (PID=6139) to work on /opt/airflow/dags/username.py
+[2022-06-16 00:00:20,043] {processor.py:641} INFO - Processing file /opt/airflow/dags/username.py for tasks to queue
+[2022-06-16 00:00:20,044] {logging_mixin.py:115} INFO - [2022-06-16 00:00:20,043] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/username.py
+[2022-06-16 00:00:20,103] {processor.py:651} INFO - DAG(s) dict_keys(['say_hi']) retrieved from /opt/airflow/dags/username.py
+[2022-06-16 00:00:20,732] {logging_mixin.py:115} INFO - [2022-06-16 00:00:20,732] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-16 00:00:23,294] {logging_mixin.py:115} INFO - [2022-06-16 00:00:23,291] {dag.py:2931} INFO - Setting next_dagrun for say_hi to 2022-06-16T00:00:00+00:00, run_after=2022-06-17T00:00:00+00:00
+[2022-06-16 00:00:23,428] {processor.py:161} INFO - Processing /opt/airflow/dags/username.py took 3.398 seconds
+[2022-06-16 00:00:54,098] {processor.py:153} INFO - Started process (PID=6184) to work on /opt/airflow/dags/username.py
+[2022-06-16 00:00:54,105] {processor.py:641} INFO - Processing file /opt/airflow/dags/username.py for tasks to queue
+[2022-06-16 00:00:54,106] {logging_mixin.py:115} INFO - [2022-06-16 00:00:54,106] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/username.py
+[2022-06-16 00:00:54,135] {processor.py:651} INFO - DAG(s) dict_keys(['say_hi']) retrieved from /opt/airflow/dags/username.py
+[2022-06-16 00:00:54,425] {logging_mixin.py:115} INFO - [2022-06-16 00:00:54,425] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-16 00:00:54,801] {logging_mixin.py:115} INFO - [2022-06-16 00:00:54,798] {dag.py:2931} INFO - Setting next_dagrun for say_hi to 2022-06-16T00:00:00+00:00, run_after=2022-06-17T00:00:00+00:00
+[2022-06-16 00:00:54,887] {processor.py:161} INFO - Processing /opt/airflow/dags/username.py took 0.832 seconds
+[2022-06-16 00:01:25,015] {processor.py:153} INFO - Started process (PID=6236) to work on /opt/airflow/dags/username.py
+[2022-06-16 00:01:25,016] {processor.py:641} INFO - Processing file /opt/airflow/dags/username.py for tasks to queue
+[2022-06-16 00:01:25,018] {logging_mixin.py:115} INFO - [2022-06-16 00:01:25,018] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/username.py
+[2022-06-16 00:01:25,093] {processor.py:651} INFO - DAG(s) dict_keys(['say_hi']) retrieved from /opt/airflow/dags/username.py
+[2022-06-16 00:01:25,602] {logging_mixin.py:115} INFO - [2022-06-16 00:01:25,601] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-16 00:01:26,650] {logging_mixin.py:115} INFO - [2022-06-16 00:01:26,650] {dag.py:2931} INFO - Setting next_dagrun for say_hi to 2022-06-16T00:00:00+00:00, run_after=2022-06-17T00:00:00+00:00
+[2022-06-16 00:01:26,821] {processor.py:161} INFO - Processing /opt/airflow/dags/username.py took 1.836 seconds
+[2022-06-16 00:01:57,265] {processor.py:153} INFO - Started process (PID=6289) to work on /opt/airflow/dags/username.py
+[2022-06-16 00:01:57,274] {processor.py:641} INFO - Processing file /opt/airflow/dags/username.py for tasks to queue
+[2022-06-16 00:01:57,275] {logging_mixin.py:115} INFO - [2022-06-16 00:01:57,275] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/username.py
+[2022-06-16 00:01:57,545] {processor.py:651} INFO - DAG(s) dict_keys(['say_hi']) retrieved from /opt/airflow/dags/username.py
+[2022-06-16 00:01:58,809] {logging_mixin.py:115} INFO - [2022-06-16 00:01:58,808] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-16 00:02:00,403] {logging_mixin.py:115} INFO - [2022-06-16 00:02:00,403] {dag.py:2931} INFO - Setting next_dagrun for say_hi to 2022-06-16T00:00:00+00:00, run_after=2022-06-17T00:00:00+00:00
+[2022-06-16 00:02:00,505] {processor.py:161} INFO - Processing /opt/airflow/dags/username.py took 3.253 seconds
+[2022-06-16 00:02:30,930] {processor.py:153} INFO - Started process (PID=6344) to work on /opt/airflow/dags/username.py
+[2022-06-16 00:02:30,938] {processor.py:641} INFO - Processing file /opt/airflow/dags/username.py for tasks to queue
+[2022-06-16 00:02:30,947] {logging_mixin.py:115} INFO - [2022-06-16 00:02:30,946] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/username.py
+[2022-06-16 00:02:31,071] {processor.py:651} INFO - DAG(s) dict_keys(['say_hi']) retrieved from /opt/airflow/dags/username.py
+[2022-06-16 00:02:31,956] {logging_mixin.py:115} INFO - [2022-06-16 00:02:31,955] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-16 00:02:33,352] {logging_mixin.py:115} INFO - [2022-06-16 00:02:33,352] {dag.py:2931} INFO - Setting next_dagrun for say_hi to 2022-06-16T00:00:00+00:00, run_after=2022-06-17T00:00:00+00:00
+[2022-06-16 00:02:33,448] {processor.py:161} INFO - Processing /opt/airflow/dags/username.py took 2.532 seconds
+[2022-06-16 00:03:04,108] {processor.py:153} INFO - Started process (PID=6398) to work on /opt/airflow/dags/username.py
+[2022-06-16 00:03:04,109] {processor.py:641} INFO - Processing file /opt/airflow/dags/username.py for tasks to queue
+[2022-06-16 00:03:04,110] {logging_mixin.py:115} INFO - [2022-06-16 00:03:04,110] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/username.py
+[2022-06-16 00:03:04,147] {processor.py:651} INFO - DAG(s) dict_keys(['say_hi']) retrieved from /opt/airflow/dags/username.py
+[2022-06-16 00:03:04,449] {logging_mixin.py:115} INFO - [2022-06-16 00:03:04,449] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-16 00:03:04,906] {logging_mixin.py:115} INFO - [2022-06-16 00:03:04,906] {dag.py:2931} INFO - Setting next_dagrun for say_hi to 2022-06-16T00:00:00+00:00, run_after=2022-06-17T00:00:00+00:00
+[2022-06-16 00:03:04,961] {processor.py:161} INFO - Processing /opt/airflow/dags/username.py took 0.859 seconds
+[2022-06-16 00:03:35,088] {processor.py:153} INFO - Started process (PID=6450) to work on /opt/airflow/dags/username.py
+[2022-06-16 00:03:35,088] {processor.py:641} INFO - Processing file /opt/airflow/dags/username.py for tasks to queue
+[2022-06-16 00:03:35,089] {logging_mixin.py:115} INFO - [2022-06-16 00:03:35,089] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/username.py
+[2022-06-16 00:03:35,106] {processor.py:651} INFO - DAG(s) dict_keys(['say_hi']) retrieved from /opt/airflow/dags/username.py
+[2022-06-16 00:03:35,323] {logging_mixin.py:115} INFO - [2022-06-16 00:03:35,323] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-16 00:03:35,753] {logging_mixin.py:115} INFO - [2022-06-16 00:03:35,753] {dag.py:2931} INFO - Setting next_dagrun for say_hi to 2022-06-16T00:00:00+00:00, run_after=2022-06-17T00:00:00+00:00
+[2022-06-16 00:03:35,803] {processor.py:161} INFO - Processing /opt/airflow/dags/username.py took 0.719 seconds
+[2022-06-16 00:04:06,046] {processor.py:153} INFO - Started process (PID=6503) to work on /opt/airflow/dags/username.py
+[2022-06-16 00:04:06,046] {processor.py:641} INFO - Processing file /opt/airflow/dags/username.py for tasks to queue
+[2022-06-16 00:04:06,052] {logging_mixin.py:115} INFO - [2022-06-16 00:04:06,051] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/username.py
+[2022-06-16 00:04:06,105] {processor.py:651} INFO - DAG(s) dict_keys(['say_hi']) retrieved from /opt/airflow/dags/username.py
+[2022-06-16 00:04:06,477] {logging_mixin.py:115} INFO - [2022-06-16 00:04:06,476] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-16 00:04:06,949] {logging_mixin.py:115} INFO - [2022-06-16 00:04:06,948] {dag.py:2931} INFO - Setting next_dagrun for say_hi to 2022-06-16T00:00:00+00:00, run_after=2022-06-17T00:00:00+00:00
+[2022-06-16 00:04:06,989] {processor.py:161} INFO - Processing /opt/airflow/dags/username.py took 0.953 seconds
+[2022-06-16 00:04:37,402] {processor.py:153} INFO - Started process (PID=6557) to work on /opt/airflow/dags/username.py
+[2022-06-16 00:04:37,408] {processor.py:641} INFO - Processing file /opt/airflow/dags/username.py for tasks to queue
+[2022-06-16 00:04:37,410] {logging_mixin.py:115} INFO - [2022-06-16 00:04:37,409] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/username.py
+[2022-06-16 00:04:37,468] {processor.py:651} INFO - DAG(s) dict_keys(['say_hi']) retrieved from /opt/airflow/dags/username.py
+[2022-06-16 00:04:38,109] {logging_mixin.py:115} INFO - [2022-06-16 00:04:38,108] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-16 00:04:38,515] {logging_mixin.py:115} INFO - [2022-06-16 00:04:38,514] {dag.py:2931} INFO - Setting next_dagrun for say_hi to 2022-06-16T00:00:00+00:00, run_after=2022-06-17T00:00:00+00:00
+[2022-06-16 00:04:38,644] {processor.py:161} INFO - Processing /opt/airflow/dags/username.py took 1.252 seconds
+[2022-06-16 00:05:08,860] {processor.py:153} INFO - Started process (PID=6611) to work on /opt/airflow/dags/username.py
+[2022-06-16 00:05:08,873] {processor.py:641} INFO - Processing file /opt/airflow/dags/username.py for tasks to queue
+[2022-06-16 00:05:08,873] {logging_mixin.py:115} INFO - [2022-06-16 00:05:08,873] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/username.py
+[2022-06-16 00:05:08,942] {processor.py:651} INFO - DAG(s) dict_keys(['say_hi']) retrieved from /opt/airflow/dags/username.py
+[2022-06-16 00:05:09,448] {logging_mixin.py:115} INFO - [2022-06-16 00:05:09,444] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-16 00:05:10,131] {logging_mixin.py:115} INFO - [2022-06-16 00:05:10,130] {dag.py:2931} INFO - Setting next_dagrun for say_hi to 2022-06-16T00:00:00+00:00, run_after=2022-06-17T00:00:00+00:00
+[2022-06-16 00:05:10,273] {processor.py:161} INFO - Processing /opt/airflow/dags/username.py took 1.429 seconds
+[2022-06-16 00:05:40,447] {processor.py:153} INFO - Started process (PID=6656) to work on /opt/airflow/dags/username.py
+[2022-06-16 00:05:40,448] {processor.py:641} INFO - Processing file /opt/airflow/dags/username.py for tasks to queue
+[2022-06-16 00:05:40,452] {logging_mixin.py:115} INFO - [2022-06-16 00:05:40,449] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/username.py
+[2022-06-16 00:05:40,491] {processor.py:651} INFO - DAG(s) dict_keys(['say_hi']) retrieved from /opt/airflow/dags/username.py
+[2022-06-16 00:05:40,733] {logging_mixin.py:115} INFO - [2022-06-16 00:05:40,732] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-16 00:05:41,107] {logging_mixin.py:115} INFO - [2022-06-16 00:05:41,106] {dag.py:2931} INFO - Setting next_dagrun for say_hi to 2022-06-16T00:00:00+00:00, run_after=2022-06-17T00:00:00+00:00
+[2022-06-16 00:05:41,153] {processor.py:161} INFO - Processing /opt/airflow/dags/username.py took 0.731 seconds
+[2022-06-16 00:06:11,878] {processor.py:153} INFO - Started process (PID=6709) to work on /opt/airflow/dags/username.py
+[2022-06-16 00:06:11,883] {processor.py:641} INFO - Processing file /opt/airflow/dags/username.py for tasks to queue
+[2022-06-16 00:06:11,883] {logging_mixin.py:115} INFO - [2022-06-16 00:06:11,883] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/username.py
+[2022-06-16 00:06:11,937] {processor.py:651} INFO - DAG(s) dict_keys(['say_hi']) retrieved from /opt/airflow/dags/username.py
+[2022-06-16 00:06:12,236] {logging_mixin.py:115} INFO - [2022-06-16 00:06:12,236] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-16 00:06:12,771] {logging_mixin.py:115} INFO - [2022-06-16 00:06:12,771] {dag.py:2931} INFO - Setting next_dagrun for say_hi to 2022-06-16T00:00:00+00:00, run_after=2022-06-17T00:00:00+00:00
+[2022-06-16 00:06:12,835] {processor.py:161} INFO - Processing /opt/airflow/dags/username.py took 0.964 seconds
+[2022-06-16 00:06:43,298] {processor.py:153} INFO - Started process (PID=6762) to work on /opt/airflow/dags/username.py
+[2022-06-16 00:06:43,299] {processor.py:641} INFO - Processing file /opt/airflow/dags/username.py for tasks to queue
+[2022-06-16 00:06:43,300] {logging_mixin.py:115} INFO - [2022-06-16 00:06:43,300] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/username.py
+[2022-06-16 00:06:43,328] {processor.py:651} INFO - DAG(s) dict_keys(['say_hi']) retrieved from /opt/airflow/dags/username.py
+[2022-06-16 00:06:43,547] {logging_mixin.py:115} INFO - [2022-06-16 00:06:43,547] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-16 00:06:44,010] {logging_mixin.py:115} INFO - [2022-06-16 00:06:44,010] {dag.py:2931} INFO - Setting next_dagrun for say_hi to 2022-06-16T00:00:00+00:00, run_after=2022-06-17T00:00:00+00:00
+[2022-06-16 00:06:44,102] {processor.py:161} INFO - Processing /opt/airflow/dags/username.py took 0.811 seconds
+[2022-06-16 00:07:14,343] {processor.py:153} INFO - Started process (PID=6816) to work on /opt/airflow/dags/username.py
+[2022-06-16 00:07:14,347] {processor.py:641} INFO - Processing file /opt/airflow/dags/username.py for tasks to queue
+[2022-06-16 00:07:14,348] {logging_mixin.py:115} INFO - [2022-06-16 00:07:14,348] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/username.py
+[2022-06-16 00:07:14,376] {processor.py:651} INFO - DAG(s) dict_keys(['say_hi']) retrieved from /opt/airflow/dags/username.py
+[2022-06-16 00:07:14,689] {logging_mixin.py:115} INFO - [2022-06-16 00:07:14,688] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-16 00:07:15,104] {logging_mixin.py:115} INFO - [2022-06-16 00:07:15,104] {dag.py:2931} INFO - Setting next_dagrun for say_hi to 2022-06-16T00:00:00+00:00, run_after=2022-06-17T00:00:00+00:00
+[2022-06-16 00:07:15,174] {processor.py:161} INFO - Processing /opt/airflow/dags/username.py took 0.841 seconds
+[2022-06-16 00:07:45,995] {processor.py:153} INFO - Started process (PID=6869) to work on /opt/airflow/dags/username.py
+[2022-06-16 00:07:45,995] {processor.py:641} INFO - Processing file /opt/airflow/dags/username.py for tasks to queue
+[2022-06-16 00:07:45,996] {logging_mixin.py:115} INFO - [2022-06-16 00:07:45,996] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/username.py
+[2022-06-16 00:07:46,017] {processor.py:651} INFO - DAG(s) dict_keys(['say_hi']) retrieved from /opt/airflow/dags/username.py
+[2022-06-16 00:07:46,338] {logging_mixin.py:115} INFO - [2022-06-16 00:07:46,337] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-16 00:07:46,903] {logging_mixin.py:115} INFO - [2022-06-16 00:07:46,903] {dag.py:2931} INFO - Setting next_dagrun for say_hi to 2022-06-16T00:00:00+00:00, run_after=2022-06-17T00:00:00+00:00
+[2022-06-16 00:07:46,953] {processor.py:161} INFO - Processing /opt/airflow/dags/username.py took 0.971 seconds
+[2022-06-16 00:08:17,158] {processor.py:153} INFO - Started process (PID=6921) to work on /opt/airflow/dags/username.py
+[2022-06-16 00:08:17,159] {processor.py:641} INFO - Processing file /opt/airflow/dags/username.py for tasks to queue
+[2022-06-16 00:08:17,160] {logging_mixin.py:115} INFO - [2022-06-16 00:08:17,159] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/username.py
+[2022-06-16 00:08:17,188] {processor.py:651} INFO - DAG(s) dict_keys(['say_hi']) retrieved from /opt/airflow/dags/username.py
+[2022-06-16 00:08:17,512] {logging_mixin.py:115} INFO - [2022-06-16 00:08:17,510] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-16 00:08:17,850] {logging_mixin.py:115} INFO - [2022-06-16 00:08:17,850] {dag.py:2931} INFO - Setting next_dagrun for say_hi to 2022-06-16T00:00:00+00:00, run_after=2022-06-17T00:00:00+00:00
+[2022-06-16 00:08:17,896] {processor.py:161} INFO - Processing /opt/airflow/dags/username.py took 0.759 seconds
+[2022-06-16 00:08:48,204] {processor.py:153} INFO - Started process (PID=6974) to work on /opt/airflow/dags/username.py
+[2022-06-16 00:08:48,210] {processor.py:641} INFO - Processing file /opt/airflow/dags/username.py for tasks to queue
+[2022-06-16 00:08:48,211] {logging_mixin.py:115} INFO - [2022-06-16 00:08:48,211] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/username.py
+[2022-06-16 00:08:48,256] {processor.py:651} INFO - DAG(s) dict_keys(['say_hi']) retrieved from /opt/airflow/dags/username.py
+[2022-06-16 00:08:48,564] {logging_mixin.py:115} INFO - [2022-06-16 00:08:48,564] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-16 00:08:48,980] {logging_mixin.py:115} INFO - [2022-06-16 00:08:48,980] {dag.py:2931} INFO - Setting next_dagrun for say_hi to 2022-06-16T00:00:00+00:00, run_after=2022-06-17T00:00:00+00:00
+[2022-06-16 00:08:49,023] {processor.py:161} INFO - Processing /opt/airflow/dags/username.py took 0.833 seconds
+[2022-06-16 00:09:19,546] {processor.py:153} INFO - Started process (PID=7026) to work on /opt/airflow/dags/username.py
+[2022-06-16 00:09:19,547] {processor.py:641} INFO - Processing file /opt/airflow/dags/username.py for tasks to queue
+[2022-06-16 00:09:19,547] {logging_mixin.py:115} INFO - [2022-06-16 00:09:19,547] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/username.py
+[2022-06-16 00:09:19,581] {processor.py:651} INFO - DAG(s) dict_keys(['say_hi']) retrieved from /opt/airflow/dags/username.py
+[2022-06-16 00:09:19,755] {logging_mixin.py:115} INFO - [2022-06-16 00:09:19,754] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-16 00:09:20,184] {logging_mixin.py:115} INFO - [2022-06-16 00:09:20,184] {dag.py:2931} INFO - Setting next_dagrun for say_hi to 2022-06-16T00:00:00+00:00, run_after=2022-06-17T00:00:00+00:00
+[2022-06-16 00:09:20,246] {processor.py:161} INFO - Processing /opt/airflow/dags/username.py took 0.710 seconds
+[2022-06-16 00:09:50,481] {processor.py:153} INFO - Started process (PID=7081) to work on /opt/airflow/dags/username.py
+[2022-06-16 00:09:50,482] {processor.py:641} INFO - Processing file /opt/airflow/dags/username.py for tasks to queue
+[2022-06-16 00:09:50,483] {logging_mixin.py:115} INFO - [2022-06-16 00:09:50,483] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/username.py
+[2022-06-16 00:09:50,497] {processor.py:651} INFO - DAG(s) dict_keys(['say_hi']) retrieved from /opt/airflow/dags/username.py
+[2022-06-16 00:09:50,603] {logging_mixin.py:115} INFO - [2022-06-16 00:09:50,603] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-16 00:09:50,768] {logging_mixin.py:115} INFO - [2022-06-16 00:09:50,768] {dag.py:2931} INFO - Setting next_dagrun for say_hi to 2022-06-16T00:00:00+00:00, run_after=2022-06-17T00:00:00+00:00
+[2022-06-16 00:09:50,786] {processor.py:161} INFO - Processing /opt/airflow/dags/username.py took 0.312 seconds
+[2022-06-16 00:10:20,988] {processor.py:153} INFO - Started process (PID=7135) to work on /opt/airflow/dags/username.py
+[2022-06-16 00:10:20,989] {processor.py:641} INFO - Processing file /opt/airflow/dags/username.py for tasks to queue
+[2022-06-16 00:10:20,990] {logging_mixin.py:115} INFO - [2022-06-16 00:10:20,989] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/username.py
+[2022-06-16 00:10:21,002] {processor.py:651} INFO - DAG(s) dict_keys(['say_hi']) retrieved from /opt/airflow/dags/username.py
+[2022-06-16 00:10:21,119] {logging_mixin.py:115} INFO - [2022-06-16 00:10:21,119] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-16 00:10:21,274] {logging_mixin.py:115} INFO - [2022-06-16 00:10:21,274] {dag.py:2931} INFO - Setting next_dagrun for say_hi to 2022-06-16T00:00:00+00:00, run_after=2022-06-17T00:00:00+00:00
+[2022-06-16 00:10:21,294] {processor.py:161} INFO - Processing /opt/airflow/dags/username.py took 0.310 seconds
+[2022-06-16 00:10:52,278] {processor.py:153} INFO - Started process (PID=7197) to work on /opt/airflow/dags/username.py
+[2022-06-16 00:10:52,279] {processor.py:641} INFO - Processing file /opt/airflow/dags/username.py for tasks to queue
+[2022-06-16 00:10:52,280] {logging_mixin.py:115} INFO - [2022-06-16 00:10:52,280] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/username.py
+[2022-06-16 00:10:52,294] {processor.py:651} INFO - DAG(s) dict_keys(['say_hi']) retrieved from /opt/airflow/dags/username.py
+[2022-06-16 00:10:52,407] {logging_mixin.py:115} INFO - [2022-06-16 00:10:52,407] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-16 00:10:52,588] {logging_mixin.py:115} INFO - [2022-06-16 00:10:52,588] {dag.py:2931} INFO - Setting next_dagrun for say_hi to 2022-06-16T00:00:00+00:00, run_after=2022-06-17T00:00:00+00:00
+[2022-06-16 00:10:52,613] {processor.py:161} INFO - Processing /opt/airflow/dags/username.py took 0.344 seconds
+[2022-06-16 00:11:22,730] {processor.py:153} INFO - Started process (PID=7252) to work on /opt/airflow/dags/username.py
+[2022-06-16 00:11:22,730] {processor.py:641} INFO - Processing file /opt/airflow/dags/username.py for tasks to queue
+[2022-06-16 00:11:22,731] {logging_mixin.py:115} INFO - [2022-06-16 00:11:22,731] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/username.py
+[2022-06-16 00:11:22,742] {processor.py:651} INFO - DAG(s) dict_keys(['say_hi']) retrieved from /opt/airflow/dags/username.py
+[2022-06-16 00:11:22,843] {logging_mixin.py:115} INFO - [2022-06-16 00:11:22,843] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-16 00:11:23,021] {logging_mixin.py:115} INFO - [2022-06-16 00:11:23,021] {dag.py:2931} INFO - Setting next_dagrun for say_hi to 2022-06-16T00:00:00+00:00, run_after=2022-06-17T00:00:00+00:00
+[2022-06-16 00:11:23,056] {processor.py:161} INFO - Processing /opt/airflow/dags/username.py took 0.330 seconds
+[2022-06-16 00:11:54,041] {processor.py:153} INFO - Started process (PID=7314) to work on /opt/airflow/dags/username.py
+[2022-06-16 00:11:54,042] {processor.py:641} INFO - Processing file /opt/airflow/dags/username.py for tasks to queue
+[2022-06-16 00:11:54,043] {logging_mixin.py:115} INFO - [2022-06-16 00:11:54,043] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/username.py
+[2022-06-16 00:11:54,058] {processor.py:651} INFO - DAG(s) dict_keys(['say_hi']) retrieved from /opt/airflow/dags/username.py
+[2022-06-16 00:11:54,173] {logging_mixin.py:115} INFO - [2022-06-16 00:11:54,172] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-16 00:11:54,343] {logging_mixin.py:115} INFO - [2022-06-16 00:11:54,343] {dag.py:2931} INFO - Setting next_dagrun for say_hi to 2022-06-16T00:00:00+00:00, run_after=2022-06-17T00:00:00+00:00
+[2022-06-16 00:11:54,362] {processor.py:161} INFO - Processing /opt/airflow/dags/username.py took 0.330 seconds
+[2022-06-16 00:12:25,327] {processor.py:153} INFO - Started process (PID=7375) to work on /opt/airflow/dags/username.py
+[2022-06-16 00:12:25,328] {processor.py:641} INFO - Processing file /opt/airflow/dags/username.py for tasks to queue
+[2022-06-16 00:12:25,328] {logging_mixin.py:115} INFO - [2022-06-16 00:12:25,328] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/username.py
+[2022-06-16 00:12:25,338] {processor.py:651} INFO - DAG(s) dict_keys(['say_hi']) retrieved from /opt/airflow/dags/username.py
+[2022-06-16 00:12:25,423] {logging_mixin.py:115} INFO - [2022-06-16 00:12:25,423] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-16 00:12:25,567] {logging_mixin.py:115} INFO - [2022-06-16 00:12:25,567] {dag.py:2931} INFO - Setting next_dagrun for say_hi to 2022-06-16T00:00:00+00:00, run_after=2022-06-17T00:00:00+00:00
+[2022-06-16 00:12:25,586] {processor.py:161} INFO - Processing /opt/airflow/dags/username.py took 0.263 seconds
+[2022-06-16 00:12:56,432] {processor.py:153} INFO - Started process (PID=7430) to work on /opt/airflow/dags/username.py
+[2022-06-16 00:12:56,432] {processor.py:641} INFO - Processing file /opt/airflow/dags/username.py for tasks to queue
+[2022-06-16 00:12:56,433] {logging_mixin.py:115} INFO - [2022-06-16 00:12:56,433] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/username.py
+[2022-06-16 00:12:56,457] {processor.py:651} INFO - DAG(s) dict_keys(['say_hi']) retrieved from /opt/airflow/dags/username.py
+[2022-06-16 00:12:56,678] {logging_mixin.py:115} INFO - [2022-06-16 00:12:56,677] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-16 00:12:56,956] {logging_mixin.py:115} INFO - [2022-06-16 00:12:56,956] {dag.py:2931} INFO - Setting next_dagrun for say_hi to 2022-06-16T00:00:00+00:00, run_after=2022-06-17T00:00:00+00:00
+[2022-06-16 00:12:56,995] {processor.py:161} INFO - Processing /opt/airflow/dags/username.py took 0.569 seconds
+[2022-06-16 00:13:27,105] {processor.py:153} INFO - Started process (PID=7483) to work on /opt/airflow/dags/username.py
+[2022-06-16 00:13:27,106] {processor.py:641} INFO - Processing file /opt/airflow/dags/username.py for tasks to queue
+[2022-06-16 00:13:27,107] {logging_mixin.py:115} INFO - [2022-06-16 00:13:27,107] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/username.py
+[2022-06-16 00:13:27,129] {processor.py:651} INFO - DAG(s) dict_keys(['say_hi']) retrieved from /opt/airflow/dags/username.py
+[2022-06-16 00:13:27,337] {logging_mixin.py:115} INFO - [2022-06-16 00:13:27,336] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-16 00:13:27,538] {logging_mixin.py:115} INFO - [2022-06-16 00:13:27,538] {dag.py:2931} INFO - Setting next_dagrun for say_hi to 2022-06-16T00:00:00+00:00, run_after=2022-06-17T00:00:00+00:00
+[2022-06-16 00:13:27,562] {processor.py:161} INFO - Processing /opt/airflow/dags/username.py took 0.466 seconds
+[2022-06-16 00:13:58,322] {processor.py:153} INFO - Started process (PID=7545) to work on /opt/airflow/dags/username.py
+[2022-06-16 00:13:58,323] {processor.py:641} INFO - Processing file /opt/airflow/dags/username.py for tasks to queue
+[2022-06-16 00:13:58,323] {logging_mixin.py:115} INFO - [2022-06-16 00:13:58,323] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/username.py
+[2022-06-16 00:13:58,346] {processor.py:651} INFO - DAG(s) dict_keys(['say_hi']) retrieved from /opt/airflow/dags/username.py
+[2022-06-16 00:13:58,458] {logging_mixin.py:115} INFO - [2022-06-16 00:13:58,458] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-16 00:13:58,693] {logging_mixin.py:115} INFO - [2022-06-16 00:13:58,693] {dag.py:2931} INFO - Setting next_dagrun for say_hi to 2022-06-16T00:00:00+00:00, run_after=2022-06-17T00:00:00+00:00
+[2022-06-16 00:13:58,711] {processor.py:161} INFO - Processing /opt/airflow/dags/username.py took 0.400 seconds
+[2022-06-16 00:14:15,209] {processor.py:153} INFO - Started process (PID=7575) to work on /opt/airflow/dags/username.py
+[2022-06-16 00:14:15,214] {processor.py:641} INFO - Processing file /opt/airflow/dags/username.py for tasks to queue
+[2022-06-16 00:14:15,216] {logging_mixin.py:115} INFO - [2022-06-16 00:14:15,216] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/username.py
+[2022-06-16 00:14:15,258] {processor.py:651} INFO - DAG(s) dict_keys(['say_hi']) retrieved from /opt/airflow/dags/username.py
+[2022-06-16 00:14:15,289] {logging_mixin.py:115} INFO - [2022-06-16 00:14:15,289] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-16 00:14:15,332] {logging_mixin.py:115} INFO - [2022-06-16 00:14:15,332] {dag.py:2931} INFO - Setting next_dagrun for say_hi to 2022-06-16T00:00:00+00:00, run_after=2022-06-17T00:00:00+00:00
+[2022-06-16 00:14:15,369] {processor.py:161} INFO - Processing /opt/airflow/dags/username.py took 0.173 seconds
+[2022-06-16 00:14:45,763] {processor.py:153} INFO - Started process (PID=7637) to work on /opt/airflow/dags/username.py
+[2022-06-16 00:14:45,765] {processor.py:641} INFO - Processing file /opt/airflow/dags/username.py for tasks to queue
+[2022-06-16 00:14:45,767] {logging_mixin.py:115} INFO - [2022-06-16 00:14:45,766] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/username.py
+[2022-06-16 00:14:45,804] {processor.py:651} INFO - DAG(s) dict_keys(['say_hi']) retrieved from /opt/airflow/dags/username.py
+[2022-06-16 00:14:46,141] {logging_mixin.py:115} INFO - [2022-06-16 00:14:46,140] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-16 00:14:46,331] {logging_mixin.py:115} INFO - [2022-06-16 00:14:46,331] {dag.py:2931} INFO - Setting next_dagrun for say_hi to 2022-06-16T00:00:00+00:00, run_after=2022-06-17T00:00:00+00:00
+[2022-06-16 00:14:46,347] {processor.py:161} INFO - Processing /opt/airflow/dags/username.py took 0.591 seconds
+[2022-06-16 00:15:16,453] {processor.py:153} INFO - Started process (PID=7696) to work on /opt/airflow/dags/username.py
+[2022-06-16 00:15:16,453] {processor.py:641} INFO - Processing file /opt/airflow/dags/username.py for tasks to queue
+[2022-06-16 00:15:16,454] {logging_mixin.py:115} INFO - [2022-06-16 00:15:16,454] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/username.py
+[2022-06-16 00:15:16,465] {processor.py:651} INFO - DAG(s) dict_keys(['say_hi']) retrieved from /opt/airflow/dags/username.py
+[2022-06-16 00:15:16,549] {logging_mixin.py:115} INFO - [2022-06-16 00:15:16,549] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-16 00:15:16,734] {logging_mixin.py:115} INFO - [2022-06-16 00:15:16,734] {dag.py:2931} INFO - Setting next_dagrun for say_hi to 2022-06-16T00:00:00+00:00, run_after=2022-06-17T00:00:00+00:00
+[2022-06-16 00:15:16,759] {processor.py:161} INFO - Processing /opt/airflow/dags/username.py took 0.309 seconds
+[2022-06-16 00:15:46,956] {processor.py:153} INFO - Started process (PID=7761) to work on /opt/airflow/dags/username.py
+[2022-06-16 00:15:46,957] {processor.py:641} INFO - Processing file /opt/airflow/dags/username.py for tasks to queue
+[2022-06-16 00:15:46,958] {logging_mixin.py:115} INFO - [2022-06-16 00:15:46,958] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/username.py
+[2022-06-16 00:15:47,013] {processor.py:651} INFO - DAG(s) dict_keys(['say_hi']) retrieved from /opt/airflow/dags/username.py
+[2022-06-16 00:15:47,186] {logging_mixin.py:115} INFO - [2022-06-16 00:15:47,185] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-16 00:15:47,385] {logging_mixin.py:115} INFO - [2022-06-16 00:15:47,385] {dag.py:2931} INFO - Setting next_dagrun for say_hi to 2022-06-16T00:00:00+00:00, run_after=2022-06-17T00:00:00+00:00
+[2022-06-16 00:15:47,411] {processor.py:161} INFO - Processing /opt/airflow/dags/username.py took 0.493 seconds
+[2022-06-16 00:16:17,916] {processor.py:153} INFO - Started process (PID=7819) to work on /opt/airflow/dags/username.py
+[2022-06-16 00:16:17,922] {processor.py:641} INFO - Processing file /opt/airflow/dags/username.py for tasks to queue
+[2022-06-16 00:16:17,923] {logging_mixin.py:115} INFO - [2022-06-16 00:16:17,923] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/username.py
+[2022-06-16 00:16:17,947] {processor.py:651} INFO - DAG(s) dict_keys(['say_hi']) retrieved from /opt/airflow/dags/username.py
+[2022-06-16 00:16:18,032] {logging_mixin.py:115} INFO - [2022-06-16 00:16:18,032] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-16 00:16:18,189] {logging_mixin.py:115} INFO - [2022-06-16 00:16:18,189] {dag.py:2931} INFO - Setting next_dagrun for say_hi to 2022-06-16T00:00:00+00:00, run_after=2022-06-17T00:00:00+00:00
+[2022-06-16 00:16:18,214] {processor.py:161} INFO - Processing /opt/airflow/dags/username.py took 0.308 seconds
+[2022-06-16 00:16:48,467] {processor.py:153} INFO - Started process (PID=7880) to work on /opt/airflow/dags/username.py
+[2022-06-16 00:16:48,470] {processor.py:641} INFO - Processing file /opt/airflow/dags/username.py for tasks to queue
+[2022-06-16 00:16:48,474] {logging_mixin.py:115} INFO - [2022-06-16 00:16:48,473] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/username.py
+[2022-06-16 00:16:48,511] {processor.py:651} INFO - DAG(s) dict_keys(['say_hi']) retrieved from /opt/airflow/dags/username.py
+[2022-06-16 00:16:48,843] {logging_mixin.py:115} INFO - [2022-06-16 00:16:48,843] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-16 00:16:49,014] {logging_mixin.py:115} INFO - [2022-06-16 00:16:49,013] {dag.py:2931} INFO - Setting next_dagrun for say_hi to 2022-06-16T00:00:00+00:00, run_after=2022-06-17T00:00:00+00:00
+[2022-06-16 00:16:49,037] {processor.py:161} INFO - Processing /opt/airflow/dags/username.py took 0.576 seconds
+[2022-06-16 00:17:19,708] {processor.py:153} INFO - Started process (PID=7933) to work on /opt/airflow/dags/username.py
+[2022-06-16 00:17:19,709] {processor.py:641} INFO - Processing file /opt/airflow/dags/username.py for tasks to queue
+[2022-06-16 00:17:19,710] {logging_mixin.py:115} INFO - [2022-06-16 00:17:19,710] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/username.py
+[2022-06-16 00:17:19,721] {processor.py:651} INFO - DAG(s) dict_keys(['say_hi']) retrieved from /opt/airflow/dags/username.py
+[2022-06-16 00:17:19,807] {logging_mixin.py:115} INFO - [2022-06-16 00:17:19,807] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-16 00:17:19,951] {logging_mixin.py:115} INFO - [2022-06-16 00:17:19,951] {dag.py:2931} INFO - Setting next_dagrun for say_hi to 2022-06-16T00:00:00+00:00, run_after=2022-06-17T00:00:00+00:00
+[2022-06-16 00:17:19,970] {processor.py:161} INFO - Processing /opt/airflow/dags/username.py took 0.265 seconds
+[2022-06-16 00:17:50,492] {processor.py:153} INFO - Started process (PID=7995) to work on /opt/airflow/dags/username.py
+[2022-06-16 00:17:50,493] {processor.py:641} INFO - Processing file /opt/airflow/dags/username.py for tasks to queue
+[2022-06-16 00:17:50,494] {logging_mixin.py:115} INFO - [2022-06-16 00:17:50,494] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/username.py
+[2022-06-16 00:17:50,510] {processor.py:651} INFO - DAG(s) dict_keys(['say_hi']) retrieved from /opt/airflow/dags/username.py
+[2022-06-16 00:17:50,611] {logging_mixin.py:115} INFO - [2022-06-16 00:17:50,611] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-16 00:17:50,796] {logging_mixin.py:115} INFO - [2022-06-16 00:17:50,796] {dag.py:2931} INFO - Setting next_dagrun for say_hi to 2022-06-16T00:00:00+00:00, run_after=2022-06-17T00:00:00+00:00
+[2022-06-16 00:17:50,816] {processor.py:161} INFO - Processing /opt/airflow/dags/username.py took 0.335 seconds
+[2022-06-16 00:18:21,328] {processor.py:153} INFO - Started process (PID=8048) to work on /opt/airflow/dags/username.py
+[2022-06-16 00:18:21,332] {processor.py:641} INFO - Processing file /opt/airflow/dags/username.py for tasks to queue
+[2022-06-16 00:18:21,333] {logging_mixin.py:115} INFO - [2022-06-16 00:18:21,333] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/username.py
+[2022-06-16 00:18:21,349] {processor.py:651} INFO - DAG(s) dict_keys(['say_hi']) retrieved from /opt/airflow/dags/username.py
+[2022-06-16 00:18:21,439] {logging_mixin.py:115} INFO - [2022-06-16 00:18:21,439] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-16 00:18:21,592] {logging_mixin.py:115} INFO - [2022-06-16 00:18:21,592] {dag.py:2931} INFO - Setting next_dagrun for say_hi to 2022-06-16T00:00:00+00:00, run_after=2022-06-17T00:00:00+00:00
+[2022-06-16 00:18:21,612] {processor.py:161} INFO - Processing /opt/airflow/dags/username.py took 0.289 seconds
+[2022-06-16 00:18:51,844] {processor.py:153} INFO - Started process (PID=8110) to work on /opt/airflow/dags/username.py
+[2022-06-16 00:18:51,845] {processor.py:641} INFO - Processing file /opt/airflow/dags/username.py for tasks to queue
+[2022-06-16 00:18:51,847] {logging_mixin.py:115} INFO - [2022-06-16 00:18:51,847] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/username.py
+[2022-06-16 00:18:51,866] {processor.py:651} INFO - DAG(s) dict_keys(['say_hi']) retrieved from /opt/airflow/dags/username.py
+[2022-06-16 00:18:51,946] {logging_mixin.py:115} INFO - [2022-06-16 00:18:51,945] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-16 00:18:52,093] {logging_mixin.py:115} INFO - [2022-06-16 00:18:52,093] {dag.py:2931} INFO - Setting next_dagrun for say_hi to 2022-06-16T00:00:00+00:00, run_after=2022-06-17T00:00:00+00:00
+[2022-06-16 00:18:52,112] {processor.py:161} INFO - Processing /opt/airflow/dags/username.py took 0.278 seconds
+[2022-06-16 00:19:22,466] {processor.py:153} INFO - Started process (PID=8163) to work on /opt/airflow/dags/username.py
+[2022-06-16 00:19:22,471] {processor.py:641} INFO - Processing file /opt/airflow/dags/username.py for tasks to queue
+[2022-06-16 00:19:22,474] {logging_mixin.py:115} INFO - [2022-06-16 00:19:22,473] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/username.py
+[2022-06-16 00:19:22,516] {processor.py:651} INFO - DAG(s) dict_keys(['say_hi']) retrieved from /opt/airflow/dags/username.py
+[2022-06-16 00:19:22,724] {logging_mixin.py:115} INFO - [2022-06-16 00:19:22,724] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-16 00:19:23,066] {logging_mixin.py:115} INFO - [2022-06-16 00:19:23,065] {dag.py:2931} INFO - Setting next_dagrun for say_hi to 2022-06-16T00:00:00+00:00, run_after=2022-06-17T00:00:00+00:00
+[2022-06-16 00:19:23,103] {processor.py:161} INFO - Processing /opt/airflow/dags/username.py took 0.647 seconds
+[2022-06-16 00:19:53,345] {processor.py:153} INFO - Started process (PID=8224) to work on /opt/airflow/dags/username.py
+[2022-06-16 00:19:53,346] {processor.py:641} INFO - Processing file /opt/airflow/dags/username.py for tasks to queue
+[2022-06-16 00:19:53,348] {logging_mixin.py:115} INFO - [2022-06-16 00:19:53,348] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/username.py
+[2022-06-16 00:19:53,367] {processor.py:651} INFO - DAG(s) dict_keys(['say_hi']) retrieved from /opt/airflow/dags/username.py
+[2022-06-16 00:19:53,461] {logging_mixin.py:115} INFO - [2022-06-16 00:19:53,460] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-16 00:19:53,610] {logging_mixin.py:115} INFO - [2022-06-16 00:19:53,609] {dag.py:2931} INFO - Setting next_dagrun for say_hi to 2022-06-16T00:00:00+00:00, run_after=2022-06-17T00:00:00+00:00
+[2022-06-16 00:19:53,628] {processor.py:161} INFO - Processing /opt/airflow/dags/username.py took 0.296 seconds
+[2022-06-16 00:20:23,851] {processor.py:153} INFO - Started process (PID=8278) to work on /opt/airflow/dags/username.py
+[2022-06-16 00:20:23,855] {processor.py:641} INFO - Processing file /opt/airflow/dags/username.py for tasks to queue
+[2022-06-16 00:20:23,856] {logging_mixin.py:115} INFO - [2022-06-16 00:20:23,856] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/username.py
+[2022-06-16 00:20:23,871] {processor.py:651} INFO - DAG(s) dict_keys(['say_hi']) retrieved from /opt/airflow/dags/username.py
+[2022-06-16 00:20:23,991] {logging_mixin.py:115} INFO - [2022-06-16 00:20:23,991] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-16 00:20:24,190] {logging_mixin.py:115} INFO - [2022-06-16 00:20:24,190] {dag.py:2931} INFO - Setting next_dagrun for say_hi to 2022-06-16T00:00:00+00:00, run_after=2022-06-17T00:00:00+00:00
+[2022-06-16 00:20:24,214] {processor.py:161} INFO - Processing /opt/airflow/dags/username.py took 0.367 seconds

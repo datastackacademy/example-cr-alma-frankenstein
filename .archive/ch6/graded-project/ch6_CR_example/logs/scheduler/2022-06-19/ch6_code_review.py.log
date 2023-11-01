@@ -1,0 +1,25 @@
+[2022-06-19 18:58:26,226] {processor.py:153} INFO - Started process (PID=52) to work on /opt/airflow/dags/ch6_code_review.py
+[2022-06-19 18:58:26,250] {processor.py:641} INFO - Processing file /opt/airflow/dags/ch6_code_review.py for tasks to queue
+[2022-06-19 18:58:26,252] {logging_mixin.py:115} INFO - [2022-06-19 18:58:26,252] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/ch6_code_review.py
+[2022-06-19 18:58:26,416] {processor.py:651} INFO - DAG(s) dict_keys(['code_review_ch6']) retrieved from /opt/airflow/dags/ch6_code_review.py
+[2022-06-19 18:58:27,031] {logging_mixin.py:115} INFO - [2022-06-19 18:58:27,031] {manager.py:508} INFO - Created Permission View: can delete on DAG:code_review_ch6
+[2022-06-19 18:58:27,089] {logging_mixin.py:115} INFO - [2022-06-19 18:58:27,088] {manager.py:508} INFO - Created Permission View: can read on DAG:code_review_ch6
+[2022-06-19 18:58:27,104] {logging_mixin.py:115} INFO - [2022-06-19 18:58:27,104] {manager.py:508} INFO - Created Permission View: can edit on DAG:code_review_ch6
+[2022-06-19 18:58:27,112] {logging_mixin.py:115} INFO - [2022-06-19 18:58:27,111] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-19 18:58:27,140] {logging_mixin.py:115} INFO - [2022-06-19 18:58:27,140] {dag.py:2398} INFO - Creating ORM DAG for code_review_ch6
+[2022-06-19 18:58:27,200] {logging_mixin.py:115} INFO - [2022-06-19 18:58:27,199] {dag.py:2931} INFO - Setting next_dagrun for code_review_ch6 to 2022-06-17T00:00:00+00:00, run_after=2022-06-18T00:00:00+00:00
+[2022-06-19 18:58:27,299] {processor.py:161} INFO - Processing /opt/airflow/dags/ch6_code_review.py took 1.079 seconds
+[2022-06-19 18:58:57,720] {processor.py:153} INFO - Started process (PID=104) to work on /opt/airflow/dags/ch6_code_review.py
+[2022-06-19 18:58:57,720] {processor.py:641} INFO - Processing file /opt/airflow/dags/ch6_code_review.py for tasks to queue
+[2022-06-19 18:58:57,721] {logging_mixin.py:115} INFO - [2022-06-19 18:58:57,721] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/ch6_code_review.py
+[2022-06-19 18:58:57,807] {processor.py:651} INFO - DAG(s) dict_keys(['code_review_ch6']) retrieved from /opt/airflow/dags/ch6_code_review.py
+[2022-06-19 18:58:58,928] {logging_mixin.py:115} INFO - [2022-06-19 18:58:58,927] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-19 18:58:59,145] {logging_mixin.py:115} INFO - [2022-06-19 18:58:59,144] {dag.py:2931} INFO - Setting next_dagrun for code_review_ch6 to 2022-06-17T00:00:00+00:00, run_after=2022-06-18T00:00:00+00:00
+[2022-06-19 18:58:59,315] {processor.py:161} INFO - Processing /opt/airflow/dags/ch6_code_review.py took 1.615 seconds
+[2022-06-19 18:59:29,747] {processor.py:153} INFO - Started process (PID=156) to work on /opt/airflow/dags/ch6_code_review.py
+[2022-06-19 18:59:29,752] {processor.py:641} INFO - Processing file /opt/airflow/dags/ch6_code_review.py for tasks to queue
+[2022-06-19 18:59:29,752] {logging_mixin.py:115} INFO - [2022-06-19 18:59:29,752] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/ch6_code_review.py
+[2022-06-19 18:59:29,776] {processor.py:651} INFO - DAG(s) dict_keys(['code_review_ch6']) retrieved from /opt/airflow/dags/ch6_code_review.py
+[2022-06-19 18:59:30,244] {logging_mixin.py:115} INFO - [2022-06-19 18:59:30,244] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-19 18:59:30,302] {logging_mixin.py:115} INFO - [2022-06-19 18:59:30,301] {dag.py:2931} INFO - Setting next_dagrun for code_review_ch6 to 2022-06-17T00:00:00+00:00, run_after=2022-06-18T00:00:00+00:00
+[2022-06-19 18:59:30,360] {processor.py:161} INFO - Processing /opt/airflow/dags/ch6_code_review.py took 0.618 seconds

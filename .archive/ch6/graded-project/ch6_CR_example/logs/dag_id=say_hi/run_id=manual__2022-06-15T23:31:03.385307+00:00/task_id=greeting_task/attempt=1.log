@@ -1,0 +1,25 @@
+[2022-06-15 23:31:09,546] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: say_hi.greeting_task manual__2022-06-15T23:31:03.385307+00:00 [queued]>
+[2022-06-15 23:31:09,565] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: say_hi.greeting_task manual__2022-06-15T23:31:03.385307+00:00 [queued]>
+[2022-06-15 23:31:09,565] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-15 23:31:09,565] {taskinstance.py:1357} INFO - Starting attempt 1 of 2
+[2022-06-15 23:31:09,565] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-15 23:31:09,590] {taskinstance.py:1377} INFO - Executing <Task(PythonOperator): greeting_task> on 2022-06-15 23:31:03.385307+00:00
+[2022-06-15 23:31:09,596] {standard_task_runner.py:52} INFO - Started process 1263 to run task
+[2022-06-15 23:31:09,601] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'say_hi', 'greeting_task', 'manual__2022-06-15T23:31:03.385307+00:00', '--job-id', '15', '--raw', '--subdir', 'DAGS_FOLDER/username.py', '--cfg-path', '/tmp/tmpbeqnsmf9', '--error-file', '/tmp/tmp8nf1s1rj']
+[2022-06-15 23:31:09,601] {standard_task_runner.py:80} INFO - Job 15: Subtask greeting_task
+[2022-06-15 23:31:09,710] {task_command.py:370} INFO - Running <TaskInstance: say_hi.greeting_task manual__2022-06-15T23:31:03.385307+00:00 [running]> on host 6a14fd44e8dc
+[2022-06-15 23:31:09,949] {taskinstance.py:1571} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=say_hi
+AIRFLOW_CTX_TASK_ID=greeting_task
+AIRFLOW_CTX_EXECUTION_DATE=2022-06-15T23:31:03.385307+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-06-15T23:31:03.385307+00:00
+[2022-06-15 23:31:09,950] {logging_mixin.py:115} INFO - hello, Alma
+!
+[2022-06-15 23:31:09,950] {python.py:173} INFO - Done. Returned value was: None
+[2022-06-15 23:31:09,979] {taskinstance.py:1400} INFO - Marking task as SUCCESS. dag_id=say_hi, task_id=greeting_task, execution_date=20220615T233103, start_date=20220615T233109, end_date=20220615T233109
+[2022-06-15 23:31:10,020] {local_task_job.py:156} INFO - Task exited with return code 0
+[2022-06-15 23:31:10,235] {local_task_job.py:273} INFO - 1 downstream tasks scheduled from follow-on schedule check

@@ -1,0 +1,34 @@
+---
+part_time: false
+internship: false
+number_of_days: 10
+class_times:
+  Monday: 8:00-17:00
+  Tuesday: 8:00-17:00
+  Wednesday: 8:00-17:00
+  Thursday: 8:00-17:00
+  Friday: 8:00-17:00
+code_reviews:
+  settings:
+    visible_day_of_week: friday
+    visible_time: "8:00"
+    due_days_later: 0
+    due_time: "17:00"
+    submissions_not_required: false
+    always_visible: false
+  details:
+    - title: Data Visualization
+      visible_class_week: 1
+      filename: https://github.com/epicodus-classroom/data-engineering/blob/main/4_capstone_CRs/1_data_visualization.md
+      objectives:
+      - "Include the charts outlined above."
+      - "Include brief descriptions of each chart."
+    - title: Capstone
+      visible_class_week: 2
+      filename: https://github.com/epicodus-classroom/data-engineering/blob/main/4_capstone_CRs/2_capstone.md
+      objectives:
+      - "The project should include an informative README, a `.gitignore` file, and a `requirements.txt` file"
+      - "The README should have an informative illustration, like a chart, DAG, or pipeline"
+      - "The repository has at least 30 commits"
+      - "You presented your project to the class"
+

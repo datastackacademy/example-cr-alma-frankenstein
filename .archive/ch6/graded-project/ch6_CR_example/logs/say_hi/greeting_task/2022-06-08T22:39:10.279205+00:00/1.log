@@ -1,0 +1,24 @@
+[2022-06-08 22:39:13,461] {taskinstance.py:876} INFO - Dependencies all met for <TaskInstance: say_hi.greeting_task 2022-06-08T22:39:10.279205+00:00 [queued]>
+[2022-06-08 22:39:13,544] {taskinstance.py:876} INFO - Dependencies all met for <TaskInstance: say_hi.greeting_task 2022-06-08T22:39:10.279205+00:00 [queued]>
+[2022-06-08 22:39:13,544] {taskinstance.py:1067} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-08 22:39:13,544] {taskinstance.py:1068} INFO - Starting attempt 1 of 2
+[2022-06-08 22:39:13,551] {taskinstance.py:1069} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-08 22:39:13,612] {taskinstance.py:1087} INFO - Executing <Task(PythonOperator): greeting_task> on 2022-06-08T22:39:10.279205+00:00
+[2022-06-08 22:39:13,647] {standard_task_runner.py:52} INFO - Started process 3176 to run task
+[2022-06-08 22:39:13,667] {standard_task_runner.py:76} INFO - Running: ['***', 'tasks', 'run', 'say_hi', 'greeting_task', '2022-06-08T22:39:10.279205+00:00', '--job-id', '69', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/username.py', '--cfg-path', '/tmp/tmp1o12ngjx', '--error-file', '/tmp/tmpv4um3kma']
+[2022-06-08 22:39:13,668] {standard_task_runner.py:77} INFO - Job 69: Subtask greeting_task
+[2022-06-08 22:39:13,811] {logging_mixin.py:104} INFO - Running <TaskInstance: say_hi.greeting_task 2022-06-08T22:39:10.279205+00:00 [running]> on host 69873a4b1233
+[2022-06-08 22:39:13,978] {taskinstance.py:1282} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=say_hi
+AIRFLOW_CTX_TASK_ID=greeting_task
+AIRFLOW_CTX_EXECUTION_DATE=2022-06-08T22:39:10.279205+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-06-08T22:39:10.279205+00:00
+[2022-06-08 22:39:13,979] {logging_mixin.py:104} INFO - hello, Alma
+!
+[2022-06-08 22:39:13,980] {python.py:151} INFO - Done. Returned value was: None
+[2022-06-08 22:39:14,003] {taskinstance.py:1191} INFO - Marking task as SUCCESS. dag_id=say_hi, task_id=greeting_task, execution_date=20220608T223910, start_date=20220608T223913, end_date=20220608T223914
+[2022-06-08 22:39:14,132] {taskinstance.py:1245} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2022-06-08 22:39:14,178] {local_task_job.py:151} INFO - Task exited with return code 0

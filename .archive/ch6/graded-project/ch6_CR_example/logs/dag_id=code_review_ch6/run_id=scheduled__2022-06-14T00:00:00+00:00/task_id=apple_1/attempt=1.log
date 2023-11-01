@@ -1,0 +1,24 @@
+[2022-06-16 00:59:47,185] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: code_review_ch6.apple_1 scheduled__2022-06-14T00:00:00+00:00 [queued]>
+[2022-06-16 00:59:47,284] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: code_review_ch6.apple_1 scheduled__2022-06-14T00:00:00+00:00 [queued]>
+[2022-06-16 00:59:47,284] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-16 00:59:47,285] {taskinstance.py:1357} INFO - Starting attempt 1 of 2
+[2022-06-16 00:59:47,285] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-16 00:59:47,439] {taskinstance.py:1377} INFO - Executing <Task(PythonOperator): apple_1> on 2022-06-14 00:00:00+00:00
+[2022-06-16 00:59:47,458] {standard_task_runner.py:52} INFO - Started process 4833 to run task
+[2022-06-16 00:59:47,487] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'code_review_ch6', 'apple_1', 'scheduled__2022-06-14T00:00:00+00:00', '--job-id', '62', '--raw', '--subdir', 'DAGS_FOLDER/ch6_code_review.py', '--cfg-path', '/tmp/tmpvb3ttkse', '--error-file', '/tmp/tmp1gs_ei_r']
+[2022-06-16 00:59:47,488] {standard_task_runner.py:80} INFO - Job 62: Subtask apple_1
+[2022-06-16 00:59:47,872] {task_command.py:370} INFO - Running <TaskInstance: code_review_ch6.apple_1 scheduled__2022-06-14T00:00:00+00:00 [running]> on host 6a14fd44e8dc
+[2022-06-16 00:59:49,304] {taskinstance.py:1571} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=code_review_ch6
+AIRFLOW_CTX_TASK_ID=apple_1
+AIRFLOW_CTX_EXECUTION_DATE=2022-06-14T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2022-06-14T00:00:00+00:00
+[2022-06-16 00:59:49,305] {logging_mixin.py:115} INFO - pink lady
+[2022-06-16 00:59:49,306] {python.py:173} INFO - Done. Returned value was: None
+[2022-06-16 00:59:49,410] {taskinstance.py:1400} INFO - Marking task as SUCCESS. dag_id=code_review_ch6, task_id=apple_1, execution_date=20220614T000000, start_date=20220616T005947, end_date=20220616T005949
+[2022-06-16 00:59:49,515] {local_task_job.py:156} INFO - Task exited with return code 0
+[2022-06-16 00:59:49,757] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

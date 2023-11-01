@@ -1,0 +1,24 @@
+---
+part_time: false
+internship: false
+number_of_days: 25
+class_times:
+  Monday: 8:00-17:00
+  Tuesday: 8:00-17:00
+  Wednesday: 8:00-17:00
+  Thursday: 8:00-17:00
+  Friday: 8:00-17:00
+code_reviews:
+  settings:
+    visible_day_of_week: friday
+    visible_time: "8:00"
+    due_days_later: 0
+    due_time: "17:00"
+    submissions_not_required: false
+    always_visible: false
+  details:
+    - title: Advanced Pandas
+      visible_class_week: 1
+      filename: https://github.com/epicodus-classroom/data-engineering/blob/main/2_big_data_engineering_CRs/1_advanced_pandas.md
+      objectives:
+      - "TEST"

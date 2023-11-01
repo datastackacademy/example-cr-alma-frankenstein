@@ -1,0 +1,51 @@
+---
+part_time: false
+internship: false
+number_of_days: 25
+class_times:
+  Monday: 8:00-17:00
+  Tuesday: 8:00-17:00
+  Wednesday: 8:00-17:00
+  Thursday: 8:00-17:00
+  Friday: 8:00-17:00
+code_reviews:
+  settings:
+    visible_day_of_week: friday
+    visible_time: "8:00"
+    due_days_later: 0
+    due_time: "17:00"
+    submissions_not_required: false
+    always_visible: false
+  details:
+    - title: SQL
+      visible_class_week: 1
+      filename: https://github.com/epicodus-classroom/data-engineering/blob/main/2_data_modeling_CRs/1_SQL.md
+      objectives:
+      - "Completes tasks for selecting values."
+      - "Completes tasks for subqueries."
+      - "Completes tasks for manipulating values in select."
+      - "Completes tasks for working with dates."
+      - "Completes tasks for aggregation functions."
+      - "Completes tasks for working with joins."
+    - title: BigQuery and the Cloud
+      visible_class_week: 2
+      filename: https://github.com/epicodus-classroom/data-engineering/blob/main/2_data_modeling_CRs/2_cloud.md
+      objectives:
+      - ""
+    - title: Data Modeling
+      visible_class_week: 3
+      filename: https://github.com/epicodus-classroom/data-engineering/blob/main/2_data_modeling_CRs/3_data_modeling.md
+      objectives:
+      - ""
+    - title: dbt
+      visible_class_week: 4
+      filename: https://github.com/epicodus-classroom/data-engineering/blob/main/2_data_modeling_CRs/4_dbt.md
+      objectives:
+      - ""
+    - title: Team Week
+      visible_class_week: 5
+      filename: https://github.com/epicodus-classroom/data-engineering/blob/main/2_data_modeling_CRs/5_team_week.md
+      objectives:
+      - "Your participation on your team"
+      - "Having at least 16 commits on your team's project repository"
+      - "Participating in the presentation"
